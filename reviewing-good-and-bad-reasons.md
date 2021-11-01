@@ -84,6 +84,8 @@ day.  We're not awarding prizes for effort, and sometimes a reviewer
 will understand things better, but one should be wary as a reviewer of
 trying to require substantially different research or exposition.
 
+All depend on the specific circumstances, of course - even the last can be a legitimate complaint, e.g. if that uncited paper renders the submitted work moot.
+
 
 ## Good Reasons to Reject Bad PL Papers
 
