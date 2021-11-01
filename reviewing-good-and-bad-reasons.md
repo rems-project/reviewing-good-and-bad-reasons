@@ -103,16 +103,16 @@ serious venue. In more detail:
 
 1. The motivation isn't explained - it doesn't clearly explain why anyone should care
 2. The motivational argument is bogus
-3. The work is technically correct but pointless 
-4. It's technically wrong (and isn't straightforwardly fixable)
-5. The claims are misleading: the work is over-sold and the authors aren't clear about the limitations
-6. The claims are unsubstantiated: it doesn't give the actual proofs or data, without a good reason why not
-7. The claims are unsubstantiated: the evaluation is too limited or too flawed to support the claims
-8. The exposition is so bad that it's hard (even for an informed reader) to understand what the authors have actually done
-9. It doesn't significantly advance the subject (it really is a minor increment over previous work)
-10. It really has been done before 
-11. It is a good direction, but it's really insufficiently developed for this venue
-12. It is substantially less rigorous (theoretically or experimentally) than normal practice in the area
+3. The work is technically correct but pointless  (basically a rephrasing of the above)
+4. The claims (presuming they are substantiated) wouldn't significantly advance the subject (it really is a minor increment over previous work)
+5. ...or, so far, really insufficiently developed for this venue
+6. It really has been done before 
+7. The claims are misleading: the work is over-sold and the authors aren't clear about the limitations
+8. The claims are unsubstantiated: it doesn't give the actual proofs or data, without a good reason why not
+9. The claims are unsubstantiated: the evaluation is too limited or too flawed to support the claims
+10. It is substantially less rigorous (theoretically or experimentally) than normal practice in the area
+11. It's technically wrong (and isn't straightforwardly fixable) 
+12. The exposition is so bad that it's hard (even for an informed reader) to understand what the authors have actually done
 
 When arguing that a paper should be rejected, or summarising a PC
 decision for the authors, it may be useful to identify exactly which
