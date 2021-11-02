@@ -95,7 +95,7 @@ above can be a legitimate complaint in specific circumstances, e.g. if
 that uncited paper renders the submitted work moot.
 
 
-Another bad reason arises during discussion, after the first reviews have been written.  At the end of the process, one has to arrive at accept/reject decisions, but during the process it's all too easy to regard the current scores as an objective assessment, e.g. saying "this is a `B' paper".  The whole point of the duscussion is to consider whether reviews are wrong or miscalibrated - otherwise we'd just order papers by the original scores.
+Another bad reason arises during discussion, after the first reviews have been written.  At the end of the process, one has to arrive at accept/reject decisions, but during the process it's all too easy to regard the current scores as an objective assessment, e.g. saying "this is a `B' paper".  The whole point of the discussion is to consider whether reviews are wrong or miscalibrated - otherwise we'd just order papers by the original scores.
 
 
 ## Good Reasons to Reject Bad PL Papers
