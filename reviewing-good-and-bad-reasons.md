@@ -1,10 +1,10 @@
-# Bad Reasons to Reject Good Papers (and v.v.)
+# Bad Reasons to Reject Good Papers (and vice versa)
 
 ## or, Am I Reviewer #2 ?
 
-## On reviewing in Computer Science, especially around PL-related topics (programming languages, semantics, verification)
+### On reviewing in Computer Science, especially around PL-related topics (programming languages, semantics, verification)
 
-## Peter Sewell, 2021-11-01
+### Peter Sewell, 2021-11-01
 
 Peer review is an essential aspect of academic research: when it works
 well, it provides a feedback loop that stimulates and rewards
@@ -28,6 +28,7 @@ focussed on PL-related research (programming languages, semantics, and
 verification), but much is more generally applicable.  I started these
 lists as POPL PC Chair in 2014, with another version 
 on [twitter](https://twitter.com/peter_sewell_/status/1442750114196492288).
+Many thanks to all those who have commented on previous versions.
 
 As reviewers, what do we have to decide?  Fundamentally, whether
 publishing the paper will advance the subject in some substantial way.
@@ -133,7 +134,7 @@ decision for the authors, it may be useful to identify exactly which
 of these (or other) reasons justify that.
 
 
-----------------------
+---
 
 
 While this is not about process, I do want to remark that the ways we
@@ -143,4 +144,7 @@ harder to find enough reviewers with expertise and good judgement,
 e.g. aiming for two experts per paper. Most reviewers are now taken
 from a PC or ERC pool, rather than exploiting the knowledge and
 contacts of the whole PC to find the best experts.
+
+
+
 
