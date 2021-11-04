@@ -149,13 +149,19 @@ of these (or other) reasons justify that.
 ---
 
 
-While this is not about process, I do also want to remark that the ways we
-have typically implemented lightweight double-blind submission, good
-though that is to avoid first-impression bias, have also made it
-harder to find enough reviewers with expertise and good judgement,
-e.g. aiming for two experts per paper. Most reviewers are now taken
-from a PC or ERC pool, rather than exploiting the knowledge and
-contacts of the whole PC to find the best experts.
+The above is about how we review, as individuals, but before that
+comes the selection of reviewers, which is typically up to the PC
+chair and the process that they and the surrounding organisation set
+up.  Finding enough reviewers with appropriate expertise and good
+judgement for each paper, e.g. aiming for two experts per paper, is
+crucial.
+
+This note is not about process, but I do also want to remark that the
+ways we have typically implemented lightweight double-blind
+submission, good though that is to avoid first-impression bias, have
+also made it harder to do this. Most reviewers are now taken from a PC
+or ERC pool, rather than exploiting the knowledge and contacts of the
+whole PC to find the best experts. 
 
 
 
