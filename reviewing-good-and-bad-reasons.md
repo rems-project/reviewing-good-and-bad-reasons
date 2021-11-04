@@ -26,9 +26,12 @@ This note tries to spell out some of what constitutes good reviewing,
 to refresh and provide a little push towards a better consensus.  It's
 focussed on PL-related research (programming languages, semantics, and
 verification), but much is more generally applicable.  I started these
-lists as POPL PC Chair in 2014, with another version 
-on [twitter](https://twitter.com/peter_sewell_/status/1442750114196492288).
-Many thanks to all those who have commented on previous versions.
+lists as POPL PC Chair in 2014, with another version on
+[twitter](https://twitter.com/peter_sewell_/status/1442750114196492288);
+the current version is on
+[github](https://github.com/rems-project/reviewing-good-and-bad-reasons/blob/main/reviewing-good-and-bad-reasons.md).
+Comments are welcome; many thanks to all those who have commented
+on previous versions.
 
 As reviewers, what do we have to decide?  Fundamentally, whether
 publishing the paper will advance the subject in some substantial way.
@@ -76,7 +79,7 @@ ring...
 16. It could do with another pass (and the authors will thank us for rejecting it)  (very occasionally this is eventually true, but there's a big cost, especially to the careers of junior authors)
 17. It presents a big project, not a single clever/cute idea that can be fully explained in a few pages
 18. The idea here is too simple (even though it's very useful, and no-one fleshed it out and published it before) 
-19. It's incremental w.r.t. previous work (even though it's a _big_ increment - most research is advancing previous work)   
+19. It's incremental w.r.t. previous work (even though it's a _big_ increment - most research is, necessarily, advancing previous work)
 20. This feels more like a paper for venue X (even though it could perfectly well fit here) (usually a PC chair will have to desk-reject just a couple of really out-of-scope papers)
 21. This should be a journal paper instead (for good and ill, PL is based on conference publication)
 22. The authors put a version on their web page / on arxiv / as a techreport  (that's explicitly allowed by our normal lightweight double-blind (LDB) policy, as otherwise normal scientific communication would be inhibited; the point of LDB is just to let reviewers normally review without first-impression bias)
@@ -85,11 +88,20 @@ ring...
 
 Many of these boil down to having due respect for the authors and the
 work they've put in.  Remember, they've typically spent between one
-and ten person-years on this, while the reviewer has spent maybe a
-day.  We're not awarding prizes for effort, and sometimes a reviewer
-will understand things better than the authors, but one should be wary
-as a reviewer of trying to require substantially different research or
-exposition.
+and ten person-years on the submitted work, while the reviewer has
+spent maybe a day.  Reviewers have to form a judgement, and sometimes
+will understand things better than the authors despite the mismatch of
+investment, but one should be cautious of assuming that one's first
+reaction is necessarily correct. One should also be cautious of
+confusing suggestions (or whims!)  and requirements, or of arguing
+that substantially different research or exposition would be needed.
+The authors may already have been there and tried that, and in any
+case one has to review the paper at hand, not some hypothetical other.
+
+They also highlight the need for reviewers to be dispassionate and
+aware of their own biases: to assess as best they can whether the
+subject would be best served by accepting the paper, not how much they
+personally like it.
 
 Of course, none of them are absolutes - even the last reason
 above can be a legitimate complaint in specific circumstances, e.g. if
@@ -137,7 +149,7 @@ of these (or other) reasons justify that.
 ---
 
 
-While this is not about process, I do want to remark that the ways we
+While this is not about process, I do also want to remark that the ways we
 have typically implemented lightweight double-blind submission, good
 though that is to avoid first-impression bias, have also made it
 harder to find enough reviewers with expertise and good judgement,
