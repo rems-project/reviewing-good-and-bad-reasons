@@ -4,7 +4,7 @@
 
 ### On reviewing in Computer Science, especially around PL-related topics (programming languages, semantics, verification)
 
-### Peter Sewell, 2021-11-01
+### Peter Sewell, 2021-11-05  <Peter.Sewell@cl.cam.ac.uk>
 
 Peer review is an essential aspect of academic research: when it works
 well, it provides a feedback loop that stimulates and rewards
@@ -23,14 +23,15 @@ standards on our PC chairs - a nigh-on impossible task across hundreds
 of on-line discussions.
 
 This note tries to spell out some of what constitutes good reviewing,
-to refresh and provide a little push towards a better consensus.  It's
+to refresh and provide a little push towards improving our consensus.  It's
 focussed on PL-related research (programming languages, semantics, and
 verification), but much is more generally applicable.  I started these
-lists as POPL PC Chair in 2014, with another version on
+lists as POPL PC Chair in 2014 and expanded them on
 [twitter](https://twitter.com/peter_sewell_/status/1442750114196492288);
 the current version is on
 [github](https://github.com/rems-project/reviewing-good-and-bad-reasons/blob/main/reviewing-good-and-bad-reasons.md).
-Comments are welcome; many thanks to all those who have commented
+Comments are welcome, preferably by email; 
+many thanks to all those who have commented
 on previous versions.
 
 As reviewers, what do we have to decide?  Fundamentally, whether
@@ -108,7 +109,7 @@ above can be a legitimate complaint in specific circumstances, e.g. if
 that uncited paper renders the submitted work moot.
 
 
-Another bad reason arises during discussion, after the first reviews have been written.  At the end of the process, one has to arrive at accept/reject decisions, but during the process it's all too easy to regard the current scores as an objective assessment, e.g. saying "this is a `B' paper".  The whole point of the discussion is to consider whether reviews are wrong or miscalibrated - otherwise we'd just order papers by the original scores.
+Another bad reason arises during discussion, after the first reviews have been written.  At the end of the process, one has to arrive at accept/reject decisions, but during the process it's all too easy to regard the current scores as an objective assessment, e.g. saying _this is a "B" paper_.  The whole point of the discussion is to consider whether reviews are wrong or miscalibrated - otherwise we'd just order papers by the original scores.
 
 
 ## Good Reasons to Reject Bad PL Papers
@@ -116,7 +117,7 @@ Another bad reason arises during discussion, after the first reviews have been w
 
 On the other side, not all papers are good, unfortunately, and we
 shouldn't shy away from rejecting poor-quality work, lest the subject
-be contaminated by bogosity.  Returning to the above list, in order of
+be contaminated with bogosity.  Returning to the above list, in order of
 decreasing importance:
 
 - is the motivation real - does the paper address an important problem?
@@ -151,17 +152,16 @@ of these (or other) reasons justify that.
 
 The above is about how we review, as individuals, but before that
 comes the selection of reviewers, which is typically up to the PC
-chair and the process that they and the surrounding organisation set
+chair(s) and the process that they and the surrounding organisation set
 up.  Finding enough reviewers with appropriate expertise and good
 judgement for each paper, e.g. aiming for two experts per paper, is
-crucial.
+the most important thing we can do to improve our decisions.
 
-This note is not about process, but I do also want to remark that the
+(This note is not about process, but I do also want to remark that the
 ways we have typically implemented lightweight double-blind
 submission, good though that is to avoid first-impression bias, have
-also made it harder to do this. Most reviewers are now taken from a PC
-or ERC pool, rather than exploiting the knowledge and contacts of the
-whole PC to find the best experts. 
+also made it harder to do this. Most reviewers are now taken from a relatively small PC or ERC pool, and perhaps with automated assignment, rather than exploiting the knowledge and contacts of the
+whole PC to find the best experts.)
 
 
 
