@@ -4,7 +4,7 @@
 
 ### On reviewing in Computer Science, especially around PL-related topics (programming languages, semantics, verification)
 
-### Peter Sewell, 2021-11-05  <Peter.Sewell@cl.cam.ac.uk>
+### Peter Sewell, 2021-11-05  (`Peter.Sewell@cl.cam.ac.uk`)
 
 Peer review is an essential aspect of academic research: when it works
 well, it provides a feedback loop that stimulates and rewards
