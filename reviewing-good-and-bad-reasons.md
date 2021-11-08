@@ -78,26 +78,28 @@ ring...
 14. They didn't mechanise all the proofs  (though they didn't claim that they did)
 15. A previous paper claimed to do this (though it doesn't really subsume this, or didn't appear before this submission)
 16. It could do with another pass (and the authors will thank us for rejecting it)  (very occasionally this is eventually true, but there's a big cost, especially to the careers of junior authors)
-17. It presents a big project, not a single clever/cute idea that can be fully explained in a few pages
+17. It presents a big project, not a single clever/cute idea that can be fully explained in a few pages (these are different kinds of paper; both are good)
 18. The idea here is too simple (even though it's very useful, and no-one fleshed it out and published it before) 
 19. It's incremental w.r.t. previous work (even though it's a _big_ increment - most research is, necessarily, advancing previous work)
 20. This feels more like a paper for venue X (even though it could perfectly well fit here) (usually a PC chair will have to desk-reject just a couple of really out-of-scope papers)
 21. This should be a journal paper instead (for good and ill, PL is based on conference publication)
 22. The authors put a version on their web page / on arxiv / as a techreport  (that's explicitly allowed by our normal lightweight double-blind (LDB) policy, as otherwise normal scientific communication would be inhibited; the point of LDB is just to let reviewers normally review without first-impression bias)
-23. I'm secretly working on a competing project (research isn't a zero-sum game: if a new area forms, with multiple groups contributing, everyone wins, so it's much better to be inclusive than to compete)
+23. I'm working on a competing project (research isn't a zero-sum game: if a new area forms, with multiple groups contributing, everyone wins, so it's much better to be inclusive)
 24. (and finally, the classic)  It doesn't cite my paper
 
 Many of these boil down to having due respect for the authors and the
-work they've put in.  Remember, they've typically spent between one
-and ten person-years on the submitted work, while the reviewer has
-spent maybe a day.  Reviewers have to form a judgement, and sometimes
-will understand things better than the authors despite the mismatch of
+work they've put in - they've typically spent between one and ten
+person-years on the submitted work, while the reviewer has spent maybe
+a day.  Reviewers have to form a judgement, and sometimes will
+understand things better than the authors despite the mismatch of
 investment, but one should be cautious of assuming that one's first
 reaction is necessarily correct. One should also be cautious of
 confusing suggestions (or whims!)  and requirements, or of arguing
 that substantially different research or exposition would be needed.
 The authors may already have been there and tried that, and in any
 case one has to review the paper at hand, not some hypothetical other.
+In writing a review, it's important to distinguish the main points
+justifying your view from random thoughts and suggestions.
 
 They also highlight the need for reviewers to be dispassionate and
 aware of their own biases: to assess as best they can whether the
