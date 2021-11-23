@@ -73,7 +73,7 @@ ring...
 9. I'm assessing this as if it was about X, even though it's actually about Y
 10. I'm assessing this as if it was a paper of kind X, even though it's actually of kind Y  (PL spans lots of different kinds of papers, with different values and criteria)
 11. It's about language design (bonus points if this is PLDI)
-12. It's too mathematical (bonus points if this is POPL)  (this is an instance of 4)
+12. It's too mathematical (bonus points if this is POPL)  (this is usually an instance of 4)
 13. It's about the semantics of actual languages, which makes it complicated (bonus points if this is POPL)
 14. They didn't mechanise all the proofs  (though they didn't claim that they did)
 15. A previous paper claimed to do this (though it doesn't really subsume this, or didn't appear before this submission)
