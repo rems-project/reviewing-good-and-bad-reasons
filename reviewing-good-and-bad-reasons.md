@@ -1,8 +1,8 @@
-# Bad Reasons to Reject Good Papers (and vice versa)
+# Bad Reasons to Reject Good Papers, and vice versa
 
-## or, Am I Reviewer #2 ?
+## (or, Am I Reviewer #2?)
 
-### On reviewing in Computer Science, especially around PL-related topics (programming languages, semantics, verification)
+### On reviewing in computer science, especially around PL-related topics (programming languages, semantics, verification)
 
 ### Peter Sewell, 2021-11-05  (`Peter.Sewell@cl.cam.ac.uk`)
 
@@ -27,7 +27,7 @@ to refresh and provide a little push towards improving our consensus.  It's
 focussed on PL-related research (programming languages, semantics, and
 verification), but much is more generally applicable.  I started these
 lists as POPL PC Chair in 2014 and expanded them on
-[twitter](https://twitter.com/peter_sewell_/status/1442750114196492288);
+[twitter](https://twitter.com/peter_sewell_/status/1442750114196492288), and an edited version has been used by Amal Ahmed and Jan Vitek as part of the OOPSLA 2022 reviewing guideleines; 
 the current version is on
 [github](https://github.com/rems-project/reviewing-good-and-bad-reasons/blob/main/reviewing-good-and-bad-reasons.md).
 Comments are welcome, preferably by email; 
@@ -93,12 +93,14 @@ person-years on the submitted work, while the reviewer has spent maybe
 a day.  Reviewers have to form a judgement, and sometimes will
 understand things better than the authors despite the mismatch of
 investment, but one should be cautious of assuming that one's first
-reaction is necessarily correct. One should also be cautious of
-confusing suggestions (or whims!)  and requirements, or of arguing
+reaction is necessarily correct. 
+One should also be cautious of arguing
 that substantially different research or exposition would be needed.
 The authors may already have been there and tried that, and in any
 case one has to review the paper at hand, not some hypothetical other.
-In writing a review, it's important to distinguish the main points
+And one should be cautious of
+confusing suggestions (or whims!)  and requirements; 
+in writing a review, it's important to distinguish the main points
 justifying your view from random thoughts and suggestions.
 
 They also highlight the need for reviewers to be dispassionate and
@@ -111,7 +113,7 @@ above can be a legitimate complaint in specific circumstances, e.g. if
 that uncited paper renders the submitted work moot.
 
 
-Another bad reason arises during discussion, after the first reviews have been written.  At the end of the process, one has to arrive at accept/reject decisions, but during the process it's all too easy to regard the current scores as an objective assessment, e.g. saying _this is a "B" paper_.  The whole point of the discussion is to consider whether reviews are wrong or miscalibrated - otherwise we'd just order papers by the original scores.
+Another bad reason arises during discussion, after the first reviews have been written.  At the end of the process, one has to arrive at accept/reject decisions, but during the process it's all too easy to regard the current scores as an objective assessment, e.g. saying _this is a "B" paper_.  The whole point of the discussion and author response is to consider whether reviews are wrong or miscalibrated - otherwise we'd just order papers by the original scores.
 
 
 ## Good Reasons to Reject Bad PL Papers
@@ -155,7 +157,7 @@ of these (or other) reasons justify that.
 The above is about how we review, as individuals, but before that
 comes the selection of reviewers, which is typically up to the PC
 chair(s) and the process that they and the surrounding organisation set
-up.  Finding enough reviewers with appropriate expertise and good
+up, and careful bidding by PC members.  Finding enough reviewers with appropriate expertise and good
 judgement for each paper, e.g. aiming for two experts per paper, is
 the most important thing we can do to improve our decisions.
 
