@@ -23,16 +23,17 @@ standards on our PC chairs - a nigh-on impossible task across hundreds
 of on-line discussions.
 
 This note tries to spell out some of what constitutes good reviewing,
-to refresh and provide a little push towards improving our consensus.  It's
-focussed on PL-related research (programming languages, semantics, and
-verification), but much is more generally applicable.  I started these
-lists as POPL PC Chair in 2014 and expanded them on
-[twitter](https://twitter.com/peter_sewell_/status/1442750114196492288), and an edited version has been used by Amal Ahmed and Jan Vitek as part of the OOPSLA 2022 reviewing guideleines; 
-the current version is on
+to refresh and provide a little push towards improving our consensus.
+It's focussed on PL-related research (programming languages,
+semantics, and verification), but much is more generally applicable.
+I started these lists as POPL PC Chair in 2014 and expanded them on
+[twitter](https://twitter.com/peter_sewell_/status/1442750114196492288),
+and an edited version has been used by Amal Ahmed and Jan Vitek as
+part of the OOPSLA 2022 reviewing guideleines; the current version is
+on
 [github](https://github.com/rems-project/reviewing-good-and-bad-reasons/blob/main/reviewing-good-and-bad-reasons.md).
-Comments are welcome, preferably by email; 
-many thanks to all those who have commented
-on previous versions.
+Comments are welcome, preferably by email; many thanks to all those
+who have commented on previous versions.
 
 As reviewers, what do we have to decide?  Fundamentally, whether
 publishing the paper will advance the subject in some substantial way.
@@ -108,21 +109,25 @@ aware of their own biases: to assess as best they can whether the
 subject would be best served by accepting the paper, not how much they
 personally like it.
 
-Of course, none of them are absolutes - even the last reason
-above can be a legitimate complaint in specific circumstances, e.g. if
-that uncited paper renders the submitted work moot.
+Of course, none of them are absolutes - even the last reason above can
+be a legitimate complaint in specific circumstances, e.g. if that
+uncited paper renders the submitted work moot.
 
-
-Another bad reason arises during discussion, after the first reviews have been written.  At the end of the process, one has to arrive at accept/reject decisions, but during the process it's all too easy to regard the current scores as an objective assessment, e.g. saying _this is a "B" paper_.  The whole point of the discussion and author response is to consider whether reviews are wrong or miscalibrated - otherwise we'd just order papers by the original scores.
+Another bad reason arises during discussion, after the first reviews
+have been written.  At the end of the process, one has to arrive at
+accept/reject decisions, but during the process it's all too easy to
+regard the current scores as an objective assessment, e.g. saying
+_this is a "B" paper_.  The whole point of the discussion and author
+response is to consider whether reviews are wrong or miscalibrated -
+otherwise we'd just order papers by the original scores.
 
 
 ## Good Reasons to Reject Bad PL Papers
 
-
 On the other side, not all papers are good, unfortunately, and we
 shouldn't shy away from rejecting poor-quality work, lest the subject
-be contaminated with bogosity.  Returning to the above list, in order of
-decreasing importance:
+be contaminated with bogosity.  Returning to the above list, in order
+of decreasing importance:
 
 - is the motivation real - does the paper address an important problem?
     (sometimes, simply identifying an important problem is a major contribution)
@@ -151,21 +156,23 @@ decision for the authors, it may be useful to identify exactly which
 of these (or other) reasons justify that.
 
 
----
-
+### A postscript on reviewer selection
 
 The above is about how we review, as individuals, but before that
 comes the selection of reviewers, which is typically up to the PC
-chair(s) and the process that they and the surrounding organisation set
-up, and careful bidding by PC members.  Finding enough reviewers with appropriate expertise and good
-judgement for each paper, e.g. aiming for two experts per paper, is
-the most important thing we can do to improve our decisions.
+chair(s) and the process that they and the surrounding organisation
+set up, and careful bidding by PC members.  Finding enough reviewers
+with appropriate expertise and good judgement for each paper,
+e.g. aiming for two experts per paper, is the most important thing we
+can do to improve our decisions.
 
-(This note is not about process, but I do also want to remark that the
+This note is not about process, but I do also want to remark that the
 ways we have typically implemented lightweight double-blind
 submission, good though that is to avoid first-impression bias, have
-also made it harder to do this. Most reviewers are now taken from a relatively small PC or ERC pool, and perhaps with automated assignment, rather than exploiting the knowledge and contacts of the
-whole PC to find the best experts.)
+also made it harder to do this. Most reviewers are now taken from a
+relatively small PC or ERC pool, and perhaps with automated
+assignment, rather than exploiting the knowledge and contacts of the
+whole PC to find the best experts.
 
 
 
