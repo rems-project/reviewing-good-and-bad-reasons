@@ -1,6 +1,6 @@
 # Bad Reasons to Reject Good Papers, and vice versa
 
-## (or, Am I Reviewer #2?)
+### (or, Am I Reviewer #2?)
 
 ### On reviewing in computer science, especially around PL-related topics (programming languages, semantics, verification)
 
