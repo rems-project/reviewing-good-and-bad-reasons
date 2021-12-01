@@ -27,12 +27,10 @@ to refresh and provide a little push towards improving our consensus.
 It's focussed on PL-related research (programming languages,
 semantics, and verification), but much is more generally applicable.
 I started these lists as POPL PC Chair in 2014 and expanded them on
-[twitter](https://twitter.com/peter_sewell_/status/1442750114196492288),
-and an edited version has been used by Amal Ahmed and Jan Vitek as
-part of the OOPSLA 2022 reviewing guideleines; the current version is
+[twitter](https://twitter.com/peter_sewell_/status/1442750114196492288); I'll update the  version 
 on
-[github](https://github.com/rems-project/reviewing-good-and-bad-reasons/blob/main/reviewing-good-and-bad-reasons.md).
-Comments are welcome, preferably by email; many thanks to all those
+[github](https://github.com/rems-project/reviewing-good-and-bad-reasons/blob/main/reviewing-good-and-bad-reasons.md) from time to time.
+Comments are welcome, and many thanks to all those
 who have commented on previous versions.
 
 As reviewers, what do we have to decide?  Fundamentally, whether
@@ -40,6 +38,7 @@ publishing the paper will advance the subject in some substantial way.
 In more detail:
 
 - is the motivation real - does the paper address an important problem?
+    (sometimes, simply identifying an important problem is a major contribution)
 - would the claims it makes constitute substantial progress?
 - are those claims backed up - is it technically solid?
 - is it well-written - enough for readers (with the appropriate background) to understand?
@@ -142,7 +141,7 @@ serious venue. In more detail:
 2. The motivational argument is bogus
 3. The work is technically correct but pointless  (basically a rephrasing of the above)
 4. The claims (presuming they are substantiated) wouldn't significantly advance the subject (it really is a minor increment over previous work)
-5. ...or, so far, really insufficiently developed for this venue
+5. The work is promising, but as it stands the advance is insufficient for this venue
 6. It really has been done before 
 7. The claims are misleading: the work is over-sold and the authors aren't clear about the limitations, or about the relationship to previous work
 8. The claims are unsubstantiated: it doesn't give the actual proofs or data, without a good reason why not
@@ -156,7 +155,7 @@ decision for the authors, it may be useful to identify exactly which
 of these (or other) reasons justify that.
 
 
-### A postscript on reviewer selection
+## An aside on reviewer selection
 
 The above is about how we review, as individuals, but before that
 comes the selection of reviewers, which is typically up to the PC
@@ -175,5 +174,7 @@ assignment, rather than exploiting the knowledge and contacts of the
 whole PC to find the best experts.
 
 
+## Conclusion
 
+So what next?  The review process will always be imperfect, but we might socialise these guidelines, discussing and improving them, to encourage more thoughtful reviewing.    PC chairs (or SIGPLAN as a whole) might choose to incorporate some version of them into the guidance we give to reviewers -- an edited version has recently been used by Amal Ahmed and Jan Vitek as part of the OOPSLA 2022 reviewing guideleines.   And as individual reviewers, and in review discussions, we might thereby focus just a bit more clearly on the legitimate and useful reasons to accept and reject papers. 
 
